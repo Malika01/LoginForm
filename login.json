@@ -1,0 +1,21 @@
+{
+"login":
+[
+
+    {"username":"user1",
+    "email":"one.2019",
+    "password":"qwerty1"
+    }
+    ,
+    {"username":"user2",
+    "email":"two.2019",
+    "password":"qwerty2"
+    }
+    ,
+    {"username":"user3",
+    "email":"three.2019",
+    "password":"qwerty3"
+    }
+
+]
+}
