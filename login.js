@@ -13,9 +13,9 @@ function display(){
       flag=1;
     }
       if(flag==1)
-      document.getElementById("text").innerHTML += "successfully logged in!!"
+      document.getElementById("text").innerHTML = "successfully logged in!!"
       else
-      document.getElementById("text").innerHTML += "login failed!!" 
+      document.getElementById("text").innerHTML = "login failed!!" 
       
   }   
   )
